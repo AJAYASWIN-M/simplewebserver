@@ -45,6 +45,6 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
-   file:///home/sec/images/code.png
+   [GitHub Logo](file:///home/sec/images/code.png)
 
 ## RESULT:
