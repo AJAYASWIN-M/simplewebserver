@@ -1,6 +1,6 @@
 # Developing a Simple Webserver
 ## AIM:
-To develop a simple webserver to display about top five programming languages.
+To develop a simple webserver to display about top five web applications development frameworks.
 
 ## DESIGN STEPS:
 ### Step 1: 
