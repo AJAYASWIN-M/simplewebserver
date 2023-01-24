@@ -54,19 +54,12 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
-   
-   # Top five web application development frameworks.
-     1. React js
-     2. Django
-     3. Node js
-     4. Larvarel
-     5. Angular JS
- 
+
  
  
  
 
-     ![Screenshot (159)](https://user-images.githubusercontent.com/118679692/214237459-5201188b-aaff-43de-8559-29c49c16ae96.png)
+  ![Screenshot (159)](https://user-images.githubusercontent.com/118679692/214237459-5201188b-aaff-43de-8559-29c49c16ae96.png)
 
      
    
