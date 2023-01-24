@@ -65,8 +65,9 @@ httpd.serve_forever()
  
  
  
- ![GitHub Logo](file:///home/sec/Pictures/Screenshots/serveroutput.png)
-     
+
+     ![Screenshot (159)](https://user-images.githubusercontent.com/118679692/214237459-5201188b-aaff-43de-8559-29c49c16ae96.png)
+
      
    
 
